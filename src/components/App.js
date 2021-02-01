@@ -1,10 +1,9 @@
 import React from 'react';
 
 
-
 const App = () => {
     return (
-        <div>Redux</div>
+            <div>Redux</div>
     )
 };
 
